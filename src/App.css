@@ -1,0 +1,11 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+.container{
+  /* background-color:red; */
+  width:70rem;
+  min-height:50rem;
+  margin:2rem auto;
+}

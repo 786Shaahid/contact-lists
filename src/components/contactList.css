@@ -1,0 +1,13 @@
+.contactList{
+    width:100%;
+    min-height:40vh;
+    margin: 1rem 10rem;
+  }
+  table{
+    text-align:center;
+  }
+  th{
+    font-size:20px;
+    font-weight:600;
+    padding:1rem;
+  }
